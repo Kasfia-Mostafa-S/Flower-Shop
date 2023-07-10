@@ -124,3 +124,13 @@ padding: 15px 550px;
   font-weight: 700;
   text-decoration-line: underline;
 }
+
+.special{
+  background-color: rgba(5, 151, 160, 0.15);
+  color: rgb(59, 55, 55);
+  text-decoration:underline;
+  padding-top: 50px;
+  text-align: center;
+  font-size: 30px;
+  height: 500px;
+}
