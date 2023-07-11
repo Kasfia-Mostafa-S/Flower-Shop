@@ -157,10 +157,18 @@ padding: 15px 550px;
 }
 .special-description{
   color: rgba(39, 39, 39, 0.60);
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 400;
   padding: 0px 100px 0px;
 }
+.flower-input{
+  height: 30px;
+  width: 500px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
 /* hot deal */
 .bg-hot{
   background-color: rgba(229, 84, 115, 0.05);
