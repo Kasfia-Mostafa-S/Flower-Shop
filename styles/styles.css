@@ -8,7 +8,7 @@
   height: 500px;
   display: flex;
   justify-content:space-between;
-  background-image: url('/Flower\ Asset/pngwing 10.png');
+  background-image: url("/Flower\ Asset/pngwing 10.png");
   background-repeat: no-repeat;
   background-size: 350px;
   background-position: 800px 60px;
