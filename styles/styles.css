@@ -1,5 +1,7 @@
 *{
   margin: 0;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 .bg-color{
   background: rgba(229, 84, 115, 0.10);
@@ -18,15 +20,13 @@
 }
 .title-design{
   color: #272727;
-font-family: Lato;
-font-size: 50px;
+font-size: 40px;
 font-weight: 800;
 padding-bottom: 15px;
 }
 .description-style{
   color: rgba(39, 39, 39, 0.60);
-font-family: Lato;
-font-size: 15px;
+font-size: 13px;
 font-weight: 400;
 padding-bottom: 15px;
 }
@@ -46,7 +46,6 @@ color: white;
 .featured-title{
  color: #272727;
  text-align: center;
- font-family: Lato;
  font-size: 30px;
  font-weight: 800;
  padding-top: 50px;
@@ -54,7 +53,6 @@ color: white;
 .featured-description{
   color: rgba(39, 39, 39, 0.60);
 text-align: center;
-font-family: Lato;
 font-size: 12px;
 font-weight: 400;
 padding: 15px 550px;
@@ -81,7 +79,6 @@ padding: 15px 550px;
   padding-top:380px;
   color: #272727;
   text-align: center;
-  font-family: Lato;
   font-size: 13px;
   font-weight: 700;
   text-decoration-line: underline;
@@ -100,7 +97,6 @@ padding: 15px 550px;
   padding-top:380px;
   color: #272727;
   text-align: center;
-  font-family: Lato;
   font-size: 13px;
   font-weight: 700;
   text-decoration-line: underline;
@@ -119,7 +115,6 @@ padding: 15px 550px;
   padding-top:380px;
   color: #272727;
   text-align: center;
-  font-family: Lato;
   font-size: 13px;
   font-weight: 700;
   text-decoration-line: underline;
@@ -127,10 +122,40 @@ padding: 15px 550px;
 
 .special{
   background-color: rgba(5, 151, 160, 0.15);
-  color: rgb(59, 55, 55);
-  text-decoration:underline;
+  color: rgb(44, 42, 42);
   padding-top: 50px;
   text-align: center;
-  font-size: 30px;
+  font-size: 45px;
+  height: 550px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-left: 100px;
+}
+.special-color{
+  color:#E55473;
+}
+.flower-img{
   height: 500px;
+  width: 350px;
+  padding-bottom: 25px;
+  padding-right: 150px;
+}
+.img-btn{
+  display: flex;
+}
+
+.btn-style-img{
+  color: white;
+  background: #E55473;
+  border-radius: 8px 0px 0px 8px ;
+  height: 500px;
+  padding: 15px 30px;
+  border: none;
+  font-size: 15px;
+}
+.special-description{
+  color: rgba(39, 39, 39, 0.60);
+  font-size: 20px;
+  font-weight: 400;
 }
