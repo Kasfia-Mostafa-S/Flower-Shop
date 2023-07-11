@@ -171,7 +171,7 @@ padding: 15px 550px;
   background-position: 1000px 100px;
 }
 .hot-title{
-  font-size: 30px;
+  font-size: 40px;
   text-align: center;
   padding-right: 650px;
   padding-left: 100px;
@@ -196,7 +196,28 @@ padding: 15px 550px;
 .hot-img{
   display: flex;
 }
-
-.hello{
+/* social media */
+.social{
   background-color: white;
+  height: 150px;
+  text-align: center;
+  padding-top: 70px ;
+}
+.ig-social{
+  font-size: 30px;
+  color: #272727;
+}
+.ig-description{
+  color: rgba(39, 39, 39, 0.60);
+  font-size: 15px;
+  padding: 18px 500px;
+}
+.ig-img{
+  display: flex;
+  gap:8px;
+  padding: 0px 140px 80px ;
+}
+.ig-bg{
+  width: 300px;
+height: 350px;
 }
