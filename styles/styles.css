@@ -7,11 +7,16 @@
   background: rgba(229, 84, 115, 0.10);
   height: 500px;
   display: flex;
-  justify-content:space-between;
-  background-image: url("/Flower\ Asset/pngwing 10.png");
+  justify-content:space-around;
+  /* background-image: url("../Flower\ Asset/pngwing 10");
   background-repeat: no-repeat;
-  background-size: 350px;
-  background-position: 800px 60px;
+  background-size: 350px; */
+  
+}
+.img-head-flower{
+  height: 400px;
+  width: 400px;
+  padding-top:100px ;
 }
 .header-part{
   padding-top: 100px;
@@ -62,7 +67,7 @@ padding: 15px 550px;
   align-items: center;
   gap: 20px;
   padding-top: 50px;
-  padding-left: 300px;
+  padding-left: 350px;
 
 }
 .flowers-6{
@@ -175,7 +180,7 @@ padding: 15px 550px;
   font-size: 40px;
   text-align: center;
   padding-right: 650px;
-  padding-left: 100px;
+  padding-left: 120px;
   padding-bottom:10px ;
   
 }
@@ -187,7 +192,7 @@ padding: 15px 550px;
   text-align: center;
   font-size: 20px;
   font-weight: 400;
-  padding-left: 150px;
+  padding-left: 170px;
   padding-right: 700px;
   padding-bottom:12px ;
 }
@@ -216,7 +221,7 @@ padding: 15px 550px;
 .ig-img{
   display: flex;
   gap:8px;
-  padding: 0px 140px 80px ;
+  padding: 0px 170px 80px ;
 }
 .ig-bg{
   width: 300px;
@@ -228,8 +233,8 @@ padding: 15px 550px;
   background-image: url('../Flower\ Asset/Rectangle 9.png');
   background-repeat: no-repeat;
   background-size: 1220px;
-  background-position: 140px;
-  padding: 50px 140px ;
+  background-position: 170px;
+  padding: 50px 170px ;
   height: 500px;
 }
 .input-head{
