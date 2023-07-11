@@ -219,5 +219,46 @@ padding: 15px 550px;
 }
 .ig-bg{
   width: 300px;
-height: 350px;
+ height: 350px;
 }
+/* input field */
+
+.search-flower{
+  background-image: url('../Flower\ Asset/Rectangle 9.png');
+  background-repeat: no-repeat;
+  background-size: 1220px;
+  background-position: 140px;
+  padding: 50px 140px ;
+  height: 500px;
+}
+.input-head{
+  position: absolute;
+  padding-left: 300px;
+  padding-top: 180px ;
+ 
+}
+.input-title{
+  color: #272727;
+  text-align: center;
+  font-size: 30px;
+}
+.input-para{
+  color: rgb(39, 39, 39, 0.6);
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 20px;
+
+}
+.input-email{
+  padding-left: 20px;
+  width: 500px;
+  height: 50px;
+  border: none;
+}
+.email-sub{
+  display: flex;
+  gap: 5px;
+
+}
+
+
